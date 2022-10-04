@@ -1,3 +1,9 @@
 body{
     background: #BDBDBD;
 }
+.col-81{
+    width: "100%";
+}
+.row-contact {
+    width: 100%;
+}
